@@ -8,6 +8,8 @@
 ### ⭐ Fun fact : I love coding 💻 , ping pong 🏓 and chess pawn ♟️ 
 ### 🕝 What am ı doing now : I am writing code 🚀 
 
+<div align="center">
+<br><p align="centre">  💼 Technical Skills: <b></b></p>
 
 ![SmtOzcelik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmtOzcelik&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=SmtOzcelik&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&card_width=510)](https://git.io/streak-stats)
