@@ -1,9 +1,12 @@
 [![MasterHead](https://digitaledgetech.in/images/New_Banner_02.gif)
 <h1 align="center">HELLO WELCOME MY GITHUB PROFILE 👋 </h1>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&center=true&width=1000&lines=Samet+%C3%96Z%C3%87EL%C4%B0K;Full+Stack+Automation+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&center=true&width=1000&lines=Samet+%C3%96Z%C3%87EL%C4%B0K;Software+Test+Engineer)](https://git.io/typing-svg)
 
-
+### 🔭 I'm Full Stack Automation Engineer
+### 🌱 I'm working on a project with TestNG and Cucumber
+### ⭐ Fun fact : I love coding 💻 , ping pong 🏓 and chess pawn ♟️ 
+### 🕝 What am ı doing now : I am writing code 🚀 
 
 
 ![SmtOzcelik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmtOzcelik&show_icons=true&theme=radical)
