@@ -9,11 +9,17 @@
 ### 🌱 I'm working on a project with TestNG and Cucumber
 ### ⭐ Fun fact : I love coding 💻 , ping pong 🏓 and chess pawn ♟️ 
 ### 🕝 What am ı doing now : I am writing code 🚀 
+<a target="_blank" href="mailto:smtab142790@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 
 <div align="center">
 <br><p align="centre">  💼 Technical Skills: <b></b></p>
   </br>
   
+  
+
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code>
