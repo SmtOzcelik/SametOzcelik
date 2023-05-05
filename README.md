@@ -19,10 +19,10 @@
 
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SmtOzcelik&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&card_width=300)](https://git.io/streak-stats)
-
 ![SmtOzcelik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmtOzcelik&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SmtOzcelik&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&card_width=200)](https://git.io/streak-stats)
+
+
 </br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SmtOzcelik&bg_color=000000&color=008cb4&line=0061ff&point=94e3fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
