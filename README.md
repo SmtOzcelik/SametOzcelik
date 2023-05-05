@@ -21,6 +21,10 @@
   
   <a target="_blank" href="https://api.whatsapp.com/send?phone=05456574043">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
+  
+  <a target="_blank" href="https://www.instagram.com/smt.ozcelik/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>  
+  
 </br>
 
 <div align="center">
