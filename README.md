@@ -1,5 +1,5 @@
 [![MasterHead](https://digitaledgetech.in/images/New_Banner_02.gif)
-<h1 align="center">HELLO WELCOME MY GITHUB PROFILE 👋 </h1>
+<h1 align="center">HELLO👋, WELCOME MY GITHUB PROFILE </h1>
 
 </br>
 
