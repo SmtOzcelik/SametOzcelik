@@ -9,10 +9,13 @@
 ### 🌱 I'm working on a project with TestNG and Cucumber
 ### ⭐ Fun fact : I love coding 💻 , ping pong 🏓 and chess pawn ♟️ 
 ### 🕝 What am ı doing now : I am writing code 🚀 
-<a target="_blank" href="mailto:smtab142790@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
+</br>
+
+
+<a target="_blank" href="mailto:smtab142790@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+</br>
 
 <div align="center">
 <br><p align="centre">  💼 Technical Skills: <b></b></p>
