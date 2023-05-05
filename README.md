@@ -15,6 +15,10 @@
 
 <a target="_blank" href="mailto:smtab142790@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+ 
+<a target="_blank" href="https://www.linkedin.com/in/samet-özçelik-03526b273/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
 </br>
 
 <div align="center">
