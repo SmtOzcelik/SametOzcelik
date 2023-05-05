@@ -25,6 +25,9 @@
   <a target="_blank" href="https://www.instagram.com/smt.ozcelik/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>  
   
+  <a target="_blank" href="https://fb.com/smtozcelik">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>  
+  
 </br>
 
 <div align="center">
