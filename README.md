@@ -6,7 +6,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&center=true&width=1000&lines=Samet+%C3%96Z%C3%87EL%C4%B0K;Software+Test+Engineer)](https://git.io/typing-svg)
 
 ### 🔭 I'm Full Stack Automation Engineer
-### 🌱 I'm working on a project with TestNG and Cucumber
+### 🌱 I'm working on a project with TestNG, Cucumber and API
 ### ⭐ Fun fact : I love coding 💻 , ping pong 🏓 and chess pawn ♟️ 
 ### 🕝 What am ı doing now : I am writing code 🚀 
 
